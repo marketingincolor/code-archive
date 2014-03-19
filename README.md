@@ -3,11 +3,41 @@ code-archive
 
 ### About
 
-This is the MIC Code Archive Repository, where old or inactive client projects and code collections are stored. Typically these projects will be collected into folders or ZIP files and added to this Repository. The specifics of each folder or ZIP will be maintained in this document, serving as a full catalog of the system.
+This is the MIC Code Archive Repository, where old or inactive client projects and code collections are stored. Typically these projects will be collected into folders or ZIP files and added to this Repository. The specifics of each folder or ZIP will be maintained in this document, serving as a full catalog of the system. Typically additional information will be found in the form of a text file stored in the ZIP file where applicable.
+
+Due to the limitations of GitHub, individual ZIP files of a size greater than 100MB cannot be added to this archive. If the Client Data Archive (CDA) in question is larger than this limit, an alternative storage location such as Google Drive or the MIC Server will be utilised to store the file.
 
 If you have questions about this Repository and how to use it please contact [developer@marketingincolor.com](mailto:developer@marketingincolor.com)
 
-### Catalog
+### Catalog - GITHUB Files
+
+The files listed below can be found in the PRIVATE Marketing In Color GitHub "code-archive", which, if you are reading this document, you obviously have access to!
+
+#### CDA ajarango
+
+This ZIP file contains the Client Data Archive for the AJ Arango website revision project. This is a legacy project and lacks any version control.
+
+#### CDA AMS
+
+This ZIP file contains the Client Data Archive for the MIC / Affordable Medicaid Supplement (Linkbox) website. This is a legacy project and lacks any version control.
+
+#### CDA Edwards
+
+This ZIP file contains the Client Data Archive for the EST/ Edwards (Linkbox) website. This is a legacy project and lacks any version control.
+
+#### CDA Fuchsia 
+
+This ZIP file contains the Client Data Archive for the Fuchsia Focus website. This is a legacy project and lacks any version control.
+
+#### CDA Reddog
+
+This ZIP file contains the Client Data Archive for the C. Courter / Reddog original website project. This is a legacy project and lacks any version control.
+
+#### CDA Vigilant
+
+This ZIP file contains the Client Data Archive for the EST/ Vigilant (Linkbox) website. This is a legacy project and lacks any version control.
+
+### Catalog - Other Files
 
 #### MSP Server Change
 
