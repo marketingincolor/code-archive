@@ -61,6 +61,11 @@ This ZIP file contains the Client Data Archive for the Summit Marine website. Th
 
 This ZIP file contains the Client Data Archive for the PRO Martial Arts website. This is a legacy project and lacks any version control. File contents for LOCALHOST only, not current to client codebase.
 
+#### CDA HaasLewis
+
+This ZIP file contains the Client Data Archive for the Haas Lewis website. This is a legacy project and lacks any version control. File contents for LOCALHOST as well as the delivered client codebase (found in wp_site folder).
+
+
 ### Catalog - Other Files
 
 #### MSP Server Change
