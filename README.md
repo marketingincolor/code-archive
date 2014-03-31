@@ -49,6 +49,14 @@ This ZIP file contains the Client Data Archive for the iControl website. This is
 
 This ZIP file contains the Client Data Archive for the Dan Wilson website. This is a legacy project and lacks any version control.
 
+#### CDA GoYo
+
+This ZIP file contains the Client Data Archive for the GoYo Franchise website. This is a legacy project and lacks any version control.
+
+#### Summit
+
+This ZIP file contains the Client Data Archive for the Summit Marine website. This is a legacy project and lacks any version control.
+
 ### Catalog - Other Files
 
 #### MSP Server Change
