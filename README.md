@@ -65,6 +65,9 @@ This ZIP file contains the Client Data Archive for the PRO Martial Arts website.
 
 This ZIP file contains the Client Data Archive for the Haas Lewis website. This is a legacy project and lacks any version control. File contents for LOCALHOST as well as the delivered client codebase (found in wp_site folder).
 
+#### CDA Venue
+
+This ZIP file contains the Client Data Archive for the Venue Furniture website. This is a legacy project and lacks any version control.
 
 ### Catalog - Other Files
 
