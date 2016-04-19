@@ -25,9 +25,13 @@ This ZIP file contains the Client Data Archive for the MIC / Affordable Medicaid
 
 This ZIP file contains the Client Data Archive for the EST/ Edwards (Linkbox) website. This is a legacy project and lacks any version control.
 
-#### CDA Fuchsia 
+#### CDA Fuchsia
 
 This ZIP file contains the Client Data Archive for the Fuchsia Focus website. This is a legacy project and lacks any version control.
+
+#### CDA Greatplay
+
+This ZIP file contains the Client Data Archive for the GreatPlay website. This is project was to be a Wordpress installation and was initially managed via GitHub until the client stopped development.
 
 #### CDA Reddog
 
@@ -75,7 +79,7 @@ This ZIP file contains the Client Data Archive for the Venue Furniture website. 
 
 This ZIP file in the Code Archive contains 3 folders of content which were utilized during the MoreSpacePlace server transition. Initially the original hosting setup was copied from the server via FTP and saved in the MSP Archive directory. The full working Database was dumped from the original hosting setup as well and worked with locally until a cleaned working version could be gleaned from the original. This work and the SQL files are stored in the MSP Install Folder, along with the multi-site specific contents of the wp-content folder which needed to be transferred to the new hosting environment as well.
 
-When completed, the client's "main site" had been removed from their multi-site Wordpress installation to a new hosting setup. 
+When completed, the client's "main site" had been removed from their multi-site Wordpress installation to a new hosting setup.
 
 * __msp archive folder__ - a "full dump" of site from the original hosting setup before ANY work was done or files changed.
 * __msp install folder__ - mostly SQL files of data pulled from the system which was then recompiled via MySQL on EJT's local development host, and transitioned from a WP Multisite setup to a single site configuration for the "main" site.
